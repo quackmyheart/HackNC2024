@@ -1,4 +1,5 @@
-console.log("hello world"); //check if it's working 
+window.onload=function(){
+ console.log("hello world"); //check if it's working 
 
 // get the subreddit from the user and put it in the label
 let subreddit_name = " "; 
@@ -11,7 +12,8 @@ function getSubredditName(event) {
   console.log("yay"); 
 }
 
-console.log(subreddit_name, "button reddit subreddit"); // checking if the name is corrrect 
+console.log(subreddit_name, "button reddit subreddit"); // checking if the name is corrrect  
+}
 
 
 
