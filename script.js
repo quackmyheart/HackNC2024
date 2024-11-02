@@ -1,5 +1,4 @@
-//window.onload=function(){
- console.log("hello world"); //check if it's working
+console.log("hello world"); //check if it's working
  // get the subreddit from the user and put it in the label
  let subreddit_name = " "; 
  const test_label = document.getElementById("test_output"); // the test label to put things in 
@@ -19,8 +18,6 @@ var subredddit_json = " ";
 
  // display nicely 
 
- 
-//}
 
 
 
