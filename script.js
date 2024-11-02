@@ -3,7 +3,7 @@ window.onload=function(){
  // get the subreddit from the user and put it in the label
  let subreddit_name = " "; 
  var test_label = document.getElementById("test_output"); // the test label to put things in 
- var button = document.getElementById("confirm_subreddit"); 
+ const button = document.getElementById("confirm_subreddit"); 
  button.addEventListener("click", getSubredditName);
  function getSubredditName(event) {
    subreddit_name = document.getElementById("subreddit_input").value;
