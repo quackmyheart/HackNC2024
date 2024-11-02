@@ -11,10 +11,16 @@ window.onload=function(){
    console.log("yay"); 
  }
  console.log(subreddit_name, "button reddit subreddit"); // checking if the name is corrrect  
-}
 
 // get something from the reddit json
+// for example https://www.reddit.com/r/ruby.json is for r/ruby 
+// "https://www.reddit.com/r/" + subreddit_name + ".json"
 var subredddit_json = " "; 
+
+ // display nicely 
+
+ 
+}
 
 
 
