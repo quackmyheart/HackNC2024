@@ -6,6 +6,7 @@ var test_label = document.getElementById("test_output"); // the test label to pu
 var button = document.getElementById("confirm_subreddit"); 
 button.addEventListener("click", function(event){
   subreddit_name = document.getElementById("subreddit_input").value;
+  test_label.value = subreddit_name; 
   console.log("yay"); 
 }); 
 console.log(subreddit_name, "button reddit subreddit"); // checking if the name is corrrect 
