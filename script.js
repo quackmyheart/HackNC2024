@@ -13,5 +13,8 @@ window.onload=function(){
  console.log(subreddit_name, "button reddit subreddit"); // checking if the name is corrrect  
 }
 
+// get something from the reddit json
+var subredddit_json = " "; 
+
 
 
