@@ -3,7 +3,7 @@ console.log("hello world"); //check if it's working
  let subreddit_name = " "; 
  const test_label = document.getElementById("test_output"); // the test label to put things in 
  const button = document.getElementById("confirm_subreddit"); 
- button.addEventListener("click", getSubredditName);
+ button?.addEventListener("click", getSubredditName);
  function getSubredditName(event) {
    subreddit_name = document.getElementById("subreddit_input").value;
    test_label.value = subreddit_name; 
