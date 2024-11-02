@@ -1,4 +1,4 @@
-window.onload=function(){
+//window.onload=function(){
  console.log("hello world"); //check if it's working
  // get the subreddit from the user and put it in the label
  let subreddit_name = " "; 
@@ -20,7 +20,7 @@ var subredddit_json = " ";
  // display nicely 
 
  
-}
+//}
 
 
 
