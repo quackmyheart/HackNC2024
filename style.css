@@ -1,1 +1,56 @@
 
+#far_left {
+    float:left;
+    text-align:left;
+}
+
+#side_bar img {
+    max-height: 100%;
+    display: block;
+}
+
+body {
+    background-color: rgb(50, 50, 50); 
+}
+
+#top_left {
+    float: left;
+}
+
+#column_1 {
+    color:rgb(204, 204, 204);
+    background-color: rgb(37, 37, 38); 
+    display: flex;
+    flex-direction: column;
+    font-family: "Lucida Console";
+    width: 10%;
+    height: 877px;
+}
+
+#column_2 {
+    color:rgb(212, 212, 212);
+    background-color: rgb(30, 30, 30); 
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+#outer_2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.button { 
+    border: none;
+    color:rgb(204, 204, 204);
+    background-color: rgb(37, 37, 38); 
+    text-align: left;
+    padding: 5px 10px;
+  }
+
+#display_post_text {
+    font-family: "Courier New";
+    font-weight: bold;
+}
+
+
