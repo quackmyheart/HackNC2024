@@ -26,7 +26,3 @@ We plan to refine the colors, fonts, and spacing on our website to enhance its r
 
 ## Usage of AI 
 We utilized Perplexity.ai to improve our writing and clarify our ideas. We also turned to Gemini for assistance with certain CSS questions.
-
-## Learned about Reddit API 
-https://www.youtube.com/watch?v=k6CepxRngHo, 
-https://www.youtube.com/watch?v=b1oKDLoAHaI&t=218s
