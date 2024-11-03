@@ -1,5 +1,5 @@
-# HackNC2024
-HackNC2024
+# HackNC2024: 
+
 
 ## Usage of AI 
 We used Perplexity.ai to refine our idea 
