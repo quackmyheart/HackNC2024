@@ -1,6 +1,7 @@
 # HackNC2024: I am secretly not coding 
 Looks like you're coding on VS Code, you're actually browsing Reddit :D
 
+![logo](https://github.com/user-attachments/assets/c0ec3392-95b6-46ee-ade0-46ae07a20bc3)
 
 ## Inspiration
 The internet offers a wealth of productivity tools for programmers, such as Leetcode, Stack Exchange, and CLRS. However, there aren’t many options that allow programmers to take a break during work hours. We aimed to create a product that enables people to relax when they should be coding, whether in class or at work.
